@@ -3,6 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary: #635BFF; /* Indigo Purple */
+  --secondary: #0A84FF; /* Apple Blue */
+  --surface: #EDEFFE; /* Subtle bg tint */
 }
 
 @theme inline {
@@ -16,6 +19,9 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --primary: #8b85ff;
+    --secondary: #2a9bff;
+    --surface: #0f0f15;
   }
 }
 
